@@ -91,7 +91,9 @@ body {
 }
 
 .form__control.error small {
+  position: relative;
   visibility: visible;
+  color: #e74c3e;
 }
 
 .form button {
